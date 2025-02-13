@@ -6,6 +6,7 @@ class Lotery
 
     public static int counter = 2;
 
+
     // Returns 1 if n is a lucky no.
     // otherwise returns 0
     static bool isLucky(int n)
@@ -29,15 +30,16 @@ class Lotery
     // Driver code
     public static void Main()
     {
+        Console.WriteLine("---WELCOME TO VIETLOT---");
         Console.WriteLine("Enter a number: ");
         int x = Convert.ToInt32(Console.ReadLine());
         // Function call
         if (isLucky(x))
             Console.Write(x + " is a "
-                          + "lucky no.");
+                          + "lucky number.");
         else
             Console.Write(x + " is not"
-                          + " a lucky no.");
+                          + " a lucky number.");
         Console.WriteLine();
     }
 }
