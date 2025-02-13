@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Lotery\bin\Debug\net9.0\Lotery.exe
+C:\Users\Admin\source\repos\Lotery\bin\Debug\net9.0\Lotery.deps.json
+C:\Users\Admin\source\repos\Lotery\bin\Debug\net9.0\Lotery.runtimeconfig.json
+C:\Users\Admin\source\repos\Lotery\bin\Debug\net9.0\Lotery.dll
+C:\Users\Admin\source\repos\Lotery\bin\Debug\net9.0\Lotery.pdb
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.dll
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\refint\Lotery.dll
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.pdb
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\Lotery.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Lotery\obj\Debug\net9.0\ref\Lotery.dll
