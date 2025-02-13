@@ -31,6 +31,7 @@ class Lotery
     public static void Main()
     {
         Console.WriteLine("---WELCOME TO VIETLOT---");
+        Console.WriteLine("Have a nice day !");
         Console.WriteLine("Enter a number: ");
         int x = Convert.ToInt32(Console.ReadLine());
         // Function call
