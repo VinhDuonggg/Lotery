@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Lotery\obj\Release\net9.0\refint\Lotery.dll
 C:\Users\Admin\source\repos\Lotery\obj\Release\net9.0\Lotery.pdb
 C:\Users\Admin\source\repos\Lotery\obj\Release\net9.0\Lotery.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Lotery\obj\Release\net9.0\ref\Lotery.dll
+C:\Users\Admin\source\repos\Lotery\obj\Release\net9.0\Lotery.sourcelink.json
